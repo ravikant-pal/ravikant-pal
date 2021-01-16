@@ -1,6 +1,6 @@
+<img  alt="ANIMATION" src="https://miro.medium.com/max/2080/1*FbT7RYqb-c8ifJpK_oY5gA.gif"></img>
 ### Hi there 👋, I'm Ravikant
 #### Thank you for your visit.
-![Thank you for your visit.](https://miro.medium.com/max/2080/1*FbT7RYqb-c8ifJpK_oY5gA.gif)
 
 There is nothing impossible we can achieve what we want. Like everyone thinks blackhole very strange but it has something in it. That’s why it has value.
 
@@ -22,9 +22,9 @@ There is nothing impossible we can achieve what we want. Like everyone thinks bl
 
 ### Connect with me 🌏
 
-[<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt=" YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />]
-[<img align="left" alt=" YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />]
+<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt=" YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<img align="left" alt=" YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 <br />
 <br />
 
