@@ -22,9 +22,9 @@ There is nothing impossible we can achieve what we want. Like everyone thinks bl
 
  
 
-<div align="left">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pol-alok)]
-</div>
+<p align="left">
+  [![Ravikant's Github Stats](https://github-readme-stats.vercel.app/api?username=pol-alok&show_icons=true&count_private=true)](https://github.com/pol-alok/github-readme-stats)
+</p>
 <div align="left">
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pol-alok&show_icons=true)
 </div>
