@@ -1,7 +1,9 @@
-<img  alt="ANIMATION" src="black-hole.gif"></img>
+---<img  alt="ANIMATION" src="black-hole.gif"></img>
 
-### 
-<h1 align="center">Hey <img src="https://github.com/hrittikhere/hrittikhere/blob/master/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
+---### 
+--- <h1 align="center">Hey <img src="https://github.com/hrittikhere/hrittikhere/blob/master/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
+
+<img align='right' src="https://github.com/ashutosh1919/ashutosh1919/blob/master/my_image.jpeg" width="230" />
 
 ### Hi there 👋, I'm Ravikant
 #### Thank you for your visit.
