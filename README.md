@@ -1,4 +1,8 @@
 <img  alt="ANIMATION" src="black-hole.gif"></img>
+
+### 
+<h1 align="center">Hey <img src="https://github.com/hrittikhere/hrittikhere/blob/master/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
+
 ### Hi there 👋, I'm Ravikant
 #### Thank you for your visit.
 
