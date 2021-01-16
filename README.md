@@ -1,4 +1,4 @@
-<img  alt="ANIMATION" src="https://miro.medium.com/max/2080/1*FbT7RYqb-c8ifJpK_oY5gA.gif"></img>
+<img  alt="ANIMATION" src="black-hole.gif"></img>
 ### Hi there 👋, I'm Ravikant
 #### Thank you for your visit.
 
