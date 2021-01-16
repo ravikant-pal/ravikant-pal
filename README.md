@@ -1,9 +1,7 @@
 ### 
 <h1 align="center">Hey <img src="https://github.com/hrittikhere/hrittikhere/blob/master/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
 
-<img  alt="ANIMATION" src="black-hole.gif"></img>
-
-<img align='right' src="https://github.com/pol-alok/portfolio/blob/master/assets/images/hero.png" width="230" height="230" />
+<img align='right' src="https://github.com/pol-alok/portfolio/blob/master/assets/images/hero.png" width="400" height="400" />
 
 ### I'm Ravikant
 #### Thank you for your visit.
