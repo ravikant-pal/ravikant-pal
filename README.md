@@ -6,11 +6,11 @@
 ### I'm Ravikant
 #### Thank you for your visit.
 
-There is nothing impossible we can achieve what we want.
+I'm a Software Developer. I love to develop and build applications.
 <br />
-Like everyone thinks blackhole very strange but it has something in it.
+Made some very simple applications you can checkout repos.
 <br />
-That’s why it has value.
+Yeah, that's it.
 
 - 🔭 I’m currently working on watery. 
 - 🌱 I’m currently learning Node.js and React.js 
@@ -20,7 +20,12 @@ That’s why it has value.
 - 😄 Pronouns: Alok 
 - ⚡ Fun fact: Half-finished.  
 
-### My skills <br/> <br/> ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript)
+### My skills 
+<br/> <br/>
+![Java](https://img.shields.io/badge/-Java-0077B5?style=flat&logoColor=blue&logo=java)
+![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) 
+![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript)
 
 
 
