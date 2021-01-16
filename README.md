@@ -5,6 +5,7 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  ![Profile views](https://gpvc.arturio.dev/[pol-alok])
 </p>
 
 ## About me
