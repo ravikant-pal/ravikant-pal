@@ -63,7 +63,7 @@
 <img align="right" alt="Dog" width="" src="tenor.gif" />
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/hritikhere/count.svg" />
+  <img src="https://profile-counter.glitch.me/pol-alok/count.svg" />
 </p>
 
 <br />
