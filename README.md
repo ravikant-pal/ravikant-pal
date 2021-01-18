@@ -83,8 +83,12 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
 ![Vuejs](https://img.shields.io/badge/-Vuejs-000000?style=flat&logo=vue.js&labelColor=000000)
+
+<p style="display: flex; justify-contect: space-between;">
+    <img style="border-radius: 5px; margin: 0; padding: 0" alt="Top Languages" width="350px" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pol-alok&theme=vue&hide=max " />
+    <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+</p>
 <p style="display: flex; justify-contect: space-between;">
     <img style="border-radius: 5px;" alt="Github Contribution Stats" width="350px" height="260px" src="https://github-readme-stats.vercel.app/api/?username=pol-alok&count_private=true&show_icons=true&theme=vue&hide=contribs" />
     <img style="border-radius: 5px;" alt="Advance Password Strength Checker" width="350px" height="260px" src="https://github-readme-stats.vercel.app/api/pin/?username=pol-alok&repo=password-strength-checker&theme=vue" />
-    <img style="border-radius: 5px;" alt="Top Languages" width="300px" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pol-alok&theme=vue&hide=max&layout=compact " />
 </p>
