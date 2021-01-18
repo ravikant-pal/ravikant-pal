@@ -18,7 +18,7 @@ https://simpleicons.org/
 [![LeetCode](https://img.shields.io/badge/LeetCode-Ravikant%20Pal-yellow?logo=leetCode&logoColor=yellow&labelColor=black)](https://leetcode.com/pol-alok/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Ravikant%20Pal-e6c2ab?logo=codeChef&logoColor=e6c2ab&labelColor=black)](https://www.codechef.com/users/v0ldm0t)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-Ravikant%20Pal-gray?logo=hackerEarth&logoColor=white&labelColor=black)](https://www.hackerearth.com/@pol-alok)
-[![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/pol_alok)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Ravikant%20Pal-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/pol_alok)
 
 <h2 align="center"><samp><strong>Hi Anonymous <img src="https://github.com/hrittikhere/hrittikhere/blob/master/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤ </strong></samp></h2>
 <h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
@@ -85,10 +85,10 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Vuejs](https://img.shields.io/badge/-Vuejs-000000?style=flat&logo=vue.js&labelColor=000000)
 
 
-<a href="https://github.com/pol-alok">
-<img align="center" style="border-radius: 5px; margin-bottom: 2px" alt="Top Languages" width="350px" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pol-alok&theme=vue&hide=max&layout=compact " />
+<a align="center" href="https://github.com/pol-alok">
+<img style="border-radius: 5px; margin-bottom: 2px" alt="Top Languages" width="350px" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pol-alok&theme=vue&hide=max&layout=compact " />
 </a>
 <p style="display: flex; justify-contect: space-between;">
-    <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="350px" height="240px" src="https://github-readme-stats.vercel.app/api/?username=pol-alok&count_private=true&show_icons=true&theme=vue&hide=contribs,issues" />
-    <img style="border-radius: 5px;" alt="Advance Password Strength Checker" width="350px" height="240px" src="https://github-readme-stats.vercel.app/api/pin/?username=pol-alok&repo=password-strength-checker&theme=vue" />
+    <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="350px" height="260px" src="https://github-readme-stats.vercel.app/api/?username=pol-alok&count_private=true&show_icons=true&theme=vue&hide=contribs" />
+    <img style="border-radius: 5px;" alt="Advance Password Strength Checker" width="350px" height="260px" src="https://github-readme-stats.vercel.app/api/pin/?username=pol-alok&repo=password-strength-checker&theme=vue" />
 </p>
