@@ -85,10 +85,8 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Vuejs](https://img.shields.io/badge/-Vuejs-000000?style=flat&logo=vue.js&labelColor=000000)
 
 
-<p align="center" href="https://github.com/pol-alok">
-<img style="border-radius: 5px;" alt="Top Languages" width="350px" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pol-alok&theme=vue&hide=max&layout=compact " />
-</p>
 <p style="display: flex; justify-contect: space-between;">
     <img style="border-radius: 5px;" alt="Github Contribution Stats" width="350px" height="260px" src="https://github-readme-stats.vercel.app/api/?username=pol-alok&count_private=true&show_icons=true&theme=vue&hide=contribs" />
     <img style="border-radius: 5px;" alt="Advance Password Strength Checker" width="350px" height="260px" src="https://github-readme-stats.vercel.app/api/pin/?username=pol-alok&repo=password-strength-checker&theme=vue" />
+    <img style="border-radius: 5px;" alt="Top Languages" width="300px" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pol-alok&theme=vue&hide=max&layout=compact " />
 </p>
