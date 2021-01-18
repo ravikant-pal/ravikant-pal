@@ -86,7 +86,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 <p style="margin: 0; padding: 0; display: flex; justify-contect: space-between;">
     <img style="border-radius: 5px; margin: 0; padding: 0" alt="Top Languages" width="350px" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pol-alok&theme=vue&hide=max " />
-    <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="350px" height="260px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+    <img style="border-radius: 5px; margin: 0; padding: 0;" alt="GIF" width="350px" height="260px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
 <p style="margin: 0; padding: 0; display: flex; justify-contect: space-between;">
     <img style="border-radius: 5px;" alt="Github Contribution Stats" width="350px" height="260px" src="https://github-readme-stats.vercel.app/api/?username=pol-alok&count_private=true&show_icons=true&theme=vue&hide=contribs" />
