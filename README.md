@@ -90,6 +90,6 @@ Programmer specialized in **web development** using multiple **tools, frameworks
     <img style="border-radius: 5px; margin: 0; padding: 0;" alt="GIF" width="350px" height="260px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </span>
 <span style="margin: 0; padding: 0; display: flex; justify-contect: space-between;">
-    <img style="border-radius: 5px;  margin: 0; padding: 0;" alt="Github Contribution Stats" width="350px" height="260px" src="https://github-readme-stats.vercel.app/api/?username=pol-alok&count_private=true&show_icons=true&theme=vue&hide=contribs" />
-    <img style="border-radius: 5px;  margin: 0; padding: 0;" alt="Advance Password Strength Checker" width="350px" height="260px" src="https://github-readme-stats.vercel.app/api/pin/?username=pol-alok&repo=password-strength-checker&theme=vue" />
+    <img style="border-radius: 5px;  margin: 0; padding: 0;" alt="Github Contribution Stats" width="350px" height="250px" src="https://github-readme-stats.vercel.app/api/?username=pol-alok&count_private=true&show_icons=true&theme=vue&hide=contribs" />
+    <img style="border-radius: 5px;  margin: 0; padding: 0;" alt="Advance Password Strength Checker" width="350px" height="250px" src="https://github-readme-stats.vercel.app/api/pin/?username=pol-alok&repo=password-strength-checker&theme=vue" />
 </span>
