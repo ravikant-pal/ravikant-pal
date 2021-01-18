@@ -86,5 +86,5 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <p style="display: flex; justify-contect: space-between;">
     <img style="border-radius: 5px;" alt="Github Contribution Stats" width="350px" height="260px" src="https://github-readme-stats.vercel.app/api/?username=pol-alok&count_private=true&show_icons=true&theme=vue&hide=contribs" />
     <img style="border-radius: 5px;" alt="Advance Password Strength Checker" width="350px" height="260px" src="https://github-readme-stats.vercel.app/api/pin/?username=pol-alok&repo=password-strength-checker&theme=vue" />
-    <img style="border-radius: 5px;" alt="Top Languages" width="350px" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pol-alok&theme=vue&hide=max&layout=compact " />
+    <img style="border-radius: 5px;" alt="Top Languages" width="300px" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pol-alok&theme=vue&hide=max&layout=compact " />
 </p>
