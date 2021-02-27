@@ -21,7 +21,7 @@ https://simpleicons.org/
 [![HackerRank](https://img.shields.io/badge/HackerRank-Ravikant%20Pal-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/pol_alok)
 
 <h2 align="center"><samp><strong>Hi Anonymous <img src="https://github.com/hrittikhere/hrittikhere/blob/master/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤ </strong></samp></h2>
-<h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
+<h3 align='center'><strong><a href="https://pol-alok.github.io/portfolio" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | Full-stack Java & JavaScript | Node/React developer | Web developer</p>
 
 <p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web apps and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Java & Javascript career path, and loves working with cutting edge tools and technologies.</p>
