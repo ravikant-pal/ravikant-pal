@@ -12,7 +12,6 @@ https://simpleicons.org/
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Raviaknt%20Pal-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/pol-alok/)
 [![Mail](https://img.shields.io/badge/Gmail-apps.ravikant@gmail.com-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:apps.ravikant@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Raviaknt%20Pal-fbad50?logo=Instagram&logoColor=fbad50&labelColor=black)](https://www.instagram.com/iam_.ravi/)
 [![Instagram](https://img.shields.io/badge/Portfolio-Ravikant%20Pal-fbad50?logo=google&logoColor=fbad50&labelColor=black)](https://pol-alok.github.io/portfolio/)
 <br>
 [![LeetCode](https://img.shields.io/badge/LeetCode-Ravikant%20Pal-yellow?logo=leetCode&logoColor=yellow&labelColor=black)](https://leetcode.com/pol-alok/)
