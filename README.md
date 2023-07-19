@@ -1,25 +1,25 @@
 <div align="center">
 
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<a href="https://github.com/pol-alok">
-  <img src="https://img.shields.io/github/followers/pol-alok?label=Follow%20Me&style=social" alt="GitHub Follow">
+<a href="https://github.com/ravikant-pal">
+  <img src="https://img.shields.io/github/followers/ravikant-pal?label=Follow%20Me&style=social" alt="GitHub Follow">
 </a>
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pol-alok/">
+  <a href="https://www.linkedin.com/in/ravikant-pal/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=black" alt="Linkedin">
   </a>
-  <a href="https://pol-alok.github.io/portfolio/">
+  <a href="https://ravikant-pal.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-fbad50?logo=google&logoColor=fbad50&labelColor=black" alt="Portfolio">
   </a>
-  <a href="https://leetcode.com/pol-alok/">
+  <a href="https://leetcode.com/ravikant-pal/">
     <img src="https://img.shields.io/badge/LeetCode-yellow?logo=leetCode&logoColor=yellow&labelColor=black" alt="LeetCode">
   </a>
   <a href="https://www.codechef.com/users/v0ldm0t">
     <img src="https://img.shields.io/badge/CodeChef-e6c2ab?logo=codeChef&logoColor=e6c2ab&labelColor=black" alt="CodeChef">
   </a>
-  <a href="https://www.hackerearth.com/@pol-alok">
+  <a href="https://www.hackerearth.com/@ravikant-pal">
     <img src="https://img.shields.io/badge/HackerEarth-gray?logo=hackerEarth&logoColor=white&labelColor=black" alt="HackerEarth">
   </a>
   <a href="https://www.hackerrank.com/pol_alok">
@@ -29,7 +29,7 @@
 
 
 <h2 align="center"><samp><strong>Hi Anonymous <img src="https://github.com/hrittikhere/hrittikhere/blob/master/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤ </strong></samp></h2>
-<h3 align='center'><strong><a href="https://pol-alok.github.io/portfolio" target="_blank">Portfolio 🌐</a></strong></h3>
+<h3 align='center'><strong><a href="https://ravikant-pal.github.io/portfolio" target="_blank">Portfolio 🌐</a></strong></h3>
 <p align='center'>Full Stack Software Engineer | Java, Spring, JavaScript React | Web developer</p>
 
 <p align='left'> 📫 As someone who is always passionate about learning more about tech and life. I love to develop web apps and have been a self-taught software developer and an unstopped learner. I have evolved into a Full Stack Java & Javascript career path and love working with cutting-edge tools and technologies.</p>
@@ -104,10 +104,10 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFFFFF?style=for-the-badge)
 
 <span style="margin: 0; padding: 0; display: flex; justify-contect: space-between;">
-    <img style="border-radius: 5px; margin: 0; padding: 0;" alt="Top Languages" width="350px" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pol-alok&theme=vue&hide=max" />
+    <img style="border-radius: 5px; margin: 0; padding: 0;" alt="Top Languages" width="350px" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikant-pal&theme=vue&hide=max" />
     <img style="border-radius: 10px; margin: 0; padding: 0;" alt="GIF" width="350px" height="260px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </span>
 <span style="margin: 0; padding: 0; display: flex; justify-contect: space-between;">
-    <img style="border-radius: 5px;  margin: 0; padding: 0;" alt="Github Contribution Stats" width="350px" height="250px" src="https://github-readme-stats.vercel.app/api/?username=pol-alok&count_private=true&show_icons=true&theme=vue&hide=contribs,cpp" />
-    <img style="border-radius: 5px;  margin: 0; padding: 0;" alt="Advance Password Strength Checker" width="350px" height="250px" src="https://github-readme-stats.vercel.app/api/pin/?username=pol-alok&repo=password-strength-checker&theme=vue" />
+    <img style="border-radius: 5px;  margin: 0; padding: 0;" alt="Github Contribution Stats" width="350px" height="250px" src="https://github-readme-stats.vercel.app/api/?username=ravikant-pal&count_private=true&show_icons=true&theme=vue&hide=contribs,cpp" />
+    <img style="border-radius: 5px;  margin: 0; padding: 0;" alt="Advance Password Strength Checker" width="350px" height="250px" src="https://github-readme-stats.vercel.app/api/pin/?username=ravikant-pal&repo=password-strength-checker&theme=vue" />
 </span>
