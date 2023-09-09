@@ -1,6 +1,6 @@
 <h2 align="center"><samp><strong>Hi Anonymous <img src="https://github.com/hrittikhere/hrittikhere/blob/master/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤ </strong></samp></h2>
 <h3 align='center'><strong><a href="https://ravikant-pal.github.io/portfolio" target="_blank">Portfolio 🌐</a></strong></h3>
-<p align='center'>Full Stack Software Engineer | Java, Spring, JavaScript React | Web developer</p>
+<p align='center'> Software Engineer | Java, Spring, JavaScript and React | Web developer</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ravikant-pal/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=black" alt="Linkedin">
@@ -28,7 +28,7 @@
 
 <p align='left'> 📫 As someone who is always passionate about learning more about tech and life. I love to develop web apps and have been a self-taught software developer and an unstopped learner. I have evolved into a Full Stack Java & Javascript career path and love working with cutting-edge tools and technologies.</p>
 
-Programmer specialized in **web development** using multiple **tools, frameworks, and libraries** both in the backend and frontend. I pay *a lot of attention to detail* to generate the best products.
+Programmer specialized in **web development** using multiple **tools, frameworks, and libraries** both in the backend and front end. I pay *a lot of attention to detail* to generate the best products.
 
 ## 💻 Languages, Frameworks, Library and Tools: 🛠️<br>
 
