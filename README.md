@@ -1,11 +1,6 @@
-<div align="center">
-
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<a href="https://github.com/ravikant-pal">
-  <img src="https://img.shields.io/github/followers/ravikant-pal?label=Follow%20Me&style=social" alt="GitHub Follow">
-</a>
-</div>
-
+<h2 align="center"><samp><strong>Hi Anonymous <img src="https://github.com/hrittikhere/hrittikhere/blob/master/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤ </strong></samp></h2>
+<h3 align='center'><strong><a href="https://ravikant-pal.github.io/portfolio" target="_blank">Portfolio 🌐</a></strong></h3>
+<p align='center'>Full Stack Software Engineer | Java, Spring, JavaScript React | Web developer</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ravikant-pal/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=black" alt="Linkedin">
@@ -25,18 +20,17 @@
   <a href="https://www.hackerrank.com/pol_alok">
     <img src="https://img.shields.io/badge/HackerRank-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black" alt="HackerRank">
   </a>
+  <a href="https://github.com/ravikant-pal">
+    <img src="https://img.shields.io/github/followers/ravikant-pal?label=Follow%20Me&style=social" alt="GitHub Follow">
+  </a>
 </p>
-
-
-<h2 align="center"><samp><strong>Hi Anonymous <img src="https://github.com/hrittikhere/hrittikhere/blob/master/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤ </strong></samp></h2>
-<h3 align='center'><strong><a href="https://ravikant-pal.github.io/portfolio" target="_blank">Portfolio 🌐</a></strong></h3>
-<p align='center'>Full Stack Software Engineer | Java, Spring, JavaScript React | Web developer</p>
+<img src="https://github.com/ravikant-pal/ravikant-pal/assets/53791094/dfe1b48a-00d9-4624-af07-8109eba06be8" alt="LeetCode">
 
 <p align='left'> 📫 As someone who is always passionate about learning more about tech and life. I love to develop web apps and have been a self-taught software developer and an unstopped learner. I have evolved into a Full Stack Java & Javascript career path and love working with cutting-edge tools and technologies.</p>
 
 Programmer specialized in **web development** using multiple **tools, frameworks, and libraries** both in the backend and frontend. I pay *a lot of attention to detail* to generate the best products.
 
-## 💻 Languages, Frameworks, Library and Tools : 🛠️<br>
+## 💻 Languages, Frameworks, Library and Tools: 🛠️<br>
 
 ### Languages : 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=red)
@@ -102,12 +96,3 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 ### 🤓 Interested :
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFFFFF?style=for-the-badge)
-
-<span style="margin: 0; padding: 0; display: flex; justify-contect: space-between;">
-    <img style="border-radius: 5px; margin: 0; padding: 0;" alt="Top Languages" width="350px" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikant-pal&theme=vue&hide=max" />
-    <img style="border-radius: 10px; margin: 0; padding: 0;" alt="GIF" width="350px" height="260px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-</span>
-<span style="margin: 0; padding: 0; display: flex; justify-contect: space-between;">
-    <img style="border-radius: 5px;  margin: 0; padding: 0;" alt="Github Contribution Stats" width="350px" height="250px" src="https://github-readme-stats.vercel.app/api/?username=ravikant-pal&count_private=true&show_icons=true&theme=vue&hide=contribs,cpp" />
-    <img style="border-radius: 5px;  margin: 0; padding: 0;" alt="Advance Password Strength Checker" width="350px" height="250px" src="https://github-readme-stats.vercel.app/api/pin/?username=ravikant-pal&repo=password-strength-checker&theme=vue" />
-</span>
