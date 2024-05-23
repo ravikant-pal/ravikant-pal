@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/github/followers/ravikant-pal?label=Follow%20Me&style=social" alt="GitHub Follow">
   </a>
 </p>
-<img src="https://github.com/ravikant-pal/ravikant-pal/assets/53791094/dfe1b48a-00d9-4624-af07-8109eba06be8" alt="LeetCode">
+<!-- <img src="https://github.com/ravikant-pal/ravikant-pal/assets/53791094/dfe1b48a-00d9-4624-af07-8109eba06be8" alt="LeetCode"> -->
 
 <p align='left'> 📫 As someone who is always passionate about learning more about tech and life. I love to develop web apps and have been a self-taught software developer and an unstopped learner. I have evolved into a Full Stack Java & Javascript career path and love working with cutting-edge tools and technologies.</p>
 
