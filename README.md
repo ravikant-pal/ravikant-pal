@@ -1,12 +1,8 @@
 <h2 align="center"><samp><strong>Hi Anonymous <img src="https://github.com/hrittikhere/hrittikhere/blob/master/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤ </strong></samp></h2>
-<h3 align='center'><strong><a href="https://ravikant-pal.github.io/portfolio" target="_blank">Portfolio 🌐</a></strong></h3>
-<p align='center'> Software Engineer | Java, Spring, JavaScript and React | Web developer</p>
+<p align='center'> Software Engineer | Java, Spring Boot, JavaScript and React | Web developer</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ravikant-pal/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=blue&labelColor=black" alt="Linkedin">
-  </a>
-  <a href="https://ravikant-pal.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-fbad50?logo=google&logoColor=fbad50&labelColor=black" alt="Portfolio">
   </a>
   <a href="https://leetcode.com/ravikant-pal/">
     <img src="https://img.shields.io/badge/LeetCode-yellow?logo=leetCode&logoColor=yellow&labelColor=black" alt="LeetCode">
