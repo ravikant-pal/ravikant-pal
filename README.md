@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/ravikant-pal/ravikant-pal/main/header.png" alt="Image showing Ravikant Pal, Senior Software Engineer">
 
 <h3 align="center">👋 Hi there, I'm Ravikant Pal</h3>
----
 
 I'm a Senior Software Engineer (Data Engineer) from India 🇮🇳 with a passion for building scalable data systems and turning raw data into meaningful insights.
 
